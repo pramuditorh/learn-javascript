@@ -1,1 +1,1 @@
-# learn-javascirpt
+# learn-javascript
